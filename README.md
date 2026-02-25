@@ -8,11 +8,11 @@ This project demonstrates structured data analysis using SQL on a weather datase
 ## Dataset Description
 The dataset contains:
 
-- **City** – name of the city  
-- **Temperature (°C)** – recorded daily temperature  
-- **Humidity (%)** – daily humidity level  
-- **Condition** – weather condition (Sunny, Rainy, Cloudy)  
-- **Date** – date of the record  
+- City – name of the city  
+- Temperature (°C) – recorded daily temperature  
+- Humidity (%) – daily humidity level  
+- Condition – weather condition (Sunny, Rainy, Cloudy)  
+- Date – date of the record  
 
 ---
 
@@ -29,11 +29,11 @@ The dataset contains:
 
 ## Analysis Queries
 
-1. **Average temperature per city** – shows average temperature for each city.  
-2. **Weather condition frequency** – counts how many times each condition occurs.  
-3. **High humidity records (>65%)** – lists cities and dates with high humidity.  
-4. **Hottest recorded day** – identifies the city and date with the highest temperature.  
-5. **Temperature statistics per city** – provides total records, average, minimum, and maximum temperatures per city.  
+1. Average temperature per city – shows average temperature for each city.  
+2. Weather condition frequency – counts how many times each condition occurs.  
+3. High humidity records (>65%) – lists cities and dates with high humidity.  
+4. Hottest recorded day – identifies the city and date with the highest temperature.  
+5. Temperature statistics per city – provides total records, average, minimum, and maximum temperatures per city.  
 
 ---
 
