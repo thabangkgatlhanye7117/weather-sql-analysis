@@ -1,0 +1,11 @@
+city,temperature,humidity,condition,date
+Johannesburg,25,60,Sunny,2026-02-20
+Johannesburg,27,58,Sunny,2026-02-21
+Cape Town,20,70,Rainy,2026-02-20
+Cape Town,18,75,Rainy,2026-02-21
+Durban,28,65,Sunny,2026-02-20
+Durban,29,63,Sunny,2026-02-21
+Pretoria,24,55,Cloudy,2026-02-20
+Pretoria,26,52,Cloudy,2026-02-21
+Bloemfontein,23,68,Rainy,2026-02-20
+Polokwane,30,50,Sunny,2026-02-21
